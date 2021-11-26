@@ -1,0 +1,5 @@
+flask-sqlalchemy
+Flask~=1.1.2
+pyppeteer~=0.2.5
+urllib3
+requests
